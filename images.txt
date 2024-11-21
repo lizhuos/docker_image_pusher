@@ -2,14 +2,12 @@ nginx
 mongo
 mysql
 redis
-rabbit
 rabbitmq
 zookeeper
 kafka
 kafka-ui
 nacos
 nacos-mysql
-prometheus
 postgres
 elasticsearch:7.17.3
 #支持私库
