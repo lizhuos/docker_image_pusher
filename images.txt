@@ -4,8 +4,6 @@ mysql
 redis
 rabbitmq
 zookeeper
-kafka
-kafka-ui
 nacos
 nacos-mysql
 postgres
